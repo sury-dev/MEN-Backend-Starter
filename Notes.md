@@ -1,0 +1,1 @@
+JWT is a bearer token
